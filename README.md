@@ -29,3 +29,4 @@ email: 321954771@qq.com <br>
 ## Other Description
 Little Fucking Japanese get Fucking out Here!  <br>
 Dont use the tools to earn your fucking money  <br>
+The fucking shit who rely on two atomic bombs to know how to be human, please get fucking out
