@@ -22,7 +22,7 @@ Long positions after detecting an M1 pattern in an uptrend. <br>
 Future updates will incorporate trading volume data. Current price-only predictions already yield satisfactory results. <br>
 (Manually labeling training samples is time-consuming...) <br>
 
-## Upgrade Plan
+## Contact
 If you're interested in naked K-line strategies or have specific requirements, contact: <br>
 email: 321954771@qq.com <br>
 
